@@ -13,7 +13,7 @@ const Developers = () => {
                 {/* grid item */}
                 <div className="flex flex-wrap justify-center">
                     <div className="w-64 sm:w-64 px-4">
-                        <img src="https://avatars.githubusercontent.com/u/74034797?s=400&u=8d250db9bceb4f7415526ea5b276c203f10e3fa9&v=4" alt="..." className="shadow rounded-full max-w-full h-auto align-middle border-none" />
+                        <img src="https://avatars.githubusercontent.com/u/111954963?v=4" alt="..." className="shadow rounded-full max-w-full h-auto align-middle border-none" />
                     </div>
                     <h3 className='font-bold mr-1'>Cleo Khaye Marie Marohom, </h3>
                     <p className='font-thin italic'>Developer</p>
